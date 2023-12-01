@@ -1,11 +1,11 @@
 # MIST4610 Project 2
 
 ## Team Members
-Victoria Wiest: https://github.com/victoriawiest/MIST4610Project2
-Emma Surbrook:
-Ashley Potts:
-Hayden Soley:
-Liam Kilner: https://github.com/liamkilner/Project-2-SQL
+1. Victoria Wiest: https://github.com/victoriawiest/MIST4610Project2
+2. Emma Surbrook:
+3. Ashley Potts:
+4. Hayden Soley:
+5. Liam Kilner: https://github.com/liamkilner/Project-2-SQL
 
 ## Project Description
 
