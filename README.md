@@ -22,6 +22,7 @@ Question: Create a heatmap of the count of COVID-19 cases across the world. What
 Importance: Countries that are deemed to be the poorest at controlling their COVID-19 death rate will require more support in responding to ongoing pandemic. Furthermore, these countries more than likely have issues combating other diseases as well so they would require more support and guidance from WHO. As the data is analyzed it will help other countries in fighting COVID-19 as well. It should be noted that there are some differences amongst countries such as access to health care and COVID-19 protocol that may make it difficult for countries to control their death rate in an efficient manner.
 
 ![MAP](https://github.com/victoriawiest/MIST4610Project2/assets/148873180/4ae15353-1aac-4b63-aa19-1968e7bcb72a)
+
 ![BAR](https://github.com/victoriawiest/MIST4610Project2/assets/148873180/419b02ac-251b-4493-ac9e-3409bcb461ad)
 
 
