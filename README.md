@@ -5,7 +5,7 @@
    
 3. Emma Surbrook:
    
-5. Ashley Potts:
+5. Ashley Potts: https://github.com/ashley-potts/MIST-4610-Project-2
    
 7. Hayden Soley:
    
@@ -46,4 +46,4 @@ We did not have to manipulate or alter any data.
 
 ## Tableau Packaged Workbook
 
-The packaged workbook containing the visualizations shown above is attached to this repository. 
+The packaged workbook containing the visualizations shown above is attached to this repository here : country_wise_latest.csv
