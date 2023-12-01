@@ -47,3 +47,4 @@ We did not have to manipulate or alter any data.
 ## Tableau Packaged Workbook
 
 The packaged workbook containing the visualizations shown above is attached to this repository here : 
+[country_wise_latest.csv](https://github.com/victoriawiest/MIST4610Project2/files/13532321/country_wise_latest.csv)
